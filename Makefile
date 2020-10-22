@@ -1,6 +1,6 @@
 PORTNAME=	dovecot-xaps-plugin
 DISTVERSION=	g20200819
-PORTREVISION=	1
+PORTREVISION=	0
 CATEGORIES=	mail
 
 MAINTAINER=	raivo@lehma.com

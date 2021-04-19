@@ -10,7 +10,7 @@ LICENCE=	MIT
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	freswa
-GH_TAGNAME=	e7333ae
+GH_TAGNAME=	0ca09dc
 
 USES+=		cmake
 
